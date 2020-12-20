@@ -62,6 +62,7 @@ body{
      max-width: 350px;
      display: block;
      margin: auto;
+     border-radius: 0.5rem;
  }
 
  .hero .hero-heading {
